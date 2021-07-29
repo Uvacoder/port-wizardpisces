@@ -1,0 +1,1 @@
+const i={title:"Introduction",description:"this is wizardpisces blog introduction"},t="<p><strong>This is everyday blogs from wizardpisces, click any blog title to begin with</strong></p>\n",o=[];export{i as attributes,t as html,o as nestedHeaders};
